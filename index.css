@@ -1,0 +1,16 @@
+body {
+    background-image: url('https://img.freepik.com/premium-photo/london-train-station-background_53876-131209.jpg?w=740');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+    align-items: center;
+    justify-items: center;
+    place-items: center;
+    padding: 150px;
+}
+
+div {
+
+    background-color: antiquewhite;
+}
